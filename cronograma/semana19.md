@@ -1,4 +1,4 @@
-# Semana 19 (11/09/2025 - 17/09/2025)
+# Semana 19 (15/09/2025 - 21/09/2025)
 
 ## Tarefas
 - [ ] 100 Days of Code: Dias 46-50 (revisão APIs)

@@ -1,4 +1,4 @@
-# Semana 50 (16/04/2026 - 22/04/2026)
+# Semana 50 (20/04/2026 - 26/04/2026)
 
 ## Tarefas
 - [ ] Projeto: Concluir app avançada, hospedar no Vercel

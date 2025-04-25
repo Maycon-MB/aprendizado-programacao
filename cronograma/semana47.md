@@ -1,4 +1,4 @@
-# Semana 47 (26/03/2026 - 01/04/2026)
+# Semana 47 (30/03/2026 - 05/04/2026)
 
 ## Tarefas
 - [ ] Projeto: Iniciar app avançada (ex.: clone de app conhecido)

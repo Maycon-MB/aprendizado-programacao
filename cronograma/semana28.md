@@ -1,4 +1,4 @@
-# Semana 28 (13/11/2025 - 19/11/2025)
+# Semana 28 (17/11/2025 - 23/11/2025)
 
 ## Tarefas
 - [ ] Web Bootcamp: MongoDB básico

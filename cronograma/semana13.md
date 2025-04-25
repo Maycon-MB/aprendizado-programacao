@@ -1,4 +1,4 @@
-# Semana 13 (31/07/2025 - 06/08/2025)
+# Semana 13 (04/08/2025 - 10/08/2025)
 
 ## Tarefas
 - [ ] 100 Days of Code: Dias 11-20 (listas, arquivos)

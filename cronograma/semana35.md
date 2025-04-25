@@ -1,4 +1,4 @@
-# Semana 35 (01/01/2026 - 07/01/2026)
+# Semana 35 (05/01/2026 - 11/01/2026)
 
 ## Tarefas
 - [ ] React: Integração com APIs

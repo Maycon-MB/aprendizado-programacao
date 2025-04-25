@@ -1,4 +1,4 @@
-# Semana 12 (24/07/2025 - 30/07/2025)
+# Semana 12 (28/07/2025 - 03/08/2025)
 
 ## Tarefas
 - [ ] 100 Days of Code: Dias 1-10 (Python básico, OOP)

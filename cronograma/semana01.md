@@ -1,4 +1,4 @@
-# Semana 01 (08/05/2025 - 14/05/2025)
+# Semana 01 (12/05/2025 - 18/05/2025)
 
 ## Tarefas
 - [ ] CS50x: Semana 1 (C, arrays)

@@ -1,4 +1,4 @@
-# Semana 27 (06/11/2025 - 12/11/2025)
+# Semana 27 (10/11/2025 - 16/11/2025)
 
 ## Tarefas
 - [ ] Web Bootcamp: Revisar Node.js/Express

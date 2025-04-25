@@ -1,4 +1,4 @@
-# Semana 22 (02/10/2025 - 08/10/2025)
+# Semana 22 (06/10/2025 - 12/10/2025)
 
 ## Tarefas
 - [ ] 100 Days of Code: Dias 61-65 (revisão)

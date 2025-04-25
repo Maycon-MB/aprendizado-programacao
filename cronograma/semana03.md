@@ -1,4 +1,4 @@
-# Semana 03 (22/05/2025 - 28/05/2025)
+# Semana 03 (26/05/2025 - 01/06/2025)
 
 ## Tarefas
 - [ ] CS50x: Semana 3 (C, memória)

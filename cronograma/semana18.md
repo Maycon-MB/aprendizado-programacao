@@ -1,4 +1,4 @@
-# Semana 18 (04/09/2025 - 10/09/2025)
+# Semana 18 (08/09/2025 - 14/09/2025)
 
 ## Tarefas
 - [ ] 100 Days of Code: Dias 41-45 (Flask + PostgreSQL)

@@ -1,4 +1,4 @@
-# Semana 20 (18/09/2025 - 24/09/2025)
+# Semana 20 (22/09/2025 - 28/09/2025)
 
 ## Tarefas
 - [ ] 100 Days of Code: Dias 51-55 (autenticação)

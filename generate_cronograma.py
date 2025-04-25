@@ -57,15 +57,15 @@ tarefas_por_semana = [
     ["Portfólio: Finalizar README, documentar todos os projetos", "System Design: Projeto simples de design", "LeetCode: Revisar problemas difíceis"]
 ]
 
-# Data inicial: 01/05/2025 (quinta-feira)
-start_date = datetime(2025, 5, 1)
+# Data inicial: 05/05/2025 (primeira segunda-feira de maio de 2025)
+start_date = datetime(2025, 5, 5)
 
 # Criar pasta cronograma se não existir
 os.makedirs("cronograma", exist_ok=True)
 
 # Gerar 52 arquivos Markdown (semana00.md a semana51.md)
 for week in range(0, 52):
-    # Calcular datas da semana (quinta a quarta)
+    # Calcular datas da semana (segunda a domingo)
     week_start = start_date + timedelta(days=week*7)
     week_end = week_start + timedelta(days=6)
     

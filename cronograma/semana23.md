@@ -1,4 +1,4 @@
-# Semana 23 (09/10/2025 - 15/10/2025)
+# Semana 23 (13/10/2025 - 19/10/2025)
 
 ## Tarefas
 - [ ] 100 Days of Code: Dias 66-70 (projeto final)

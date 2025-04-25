@@ -1,4 +1,4 @@
-# Semana 33 (18/12/2025 - 24/12/2025)
+# Semana 33 (22/12/2025 - 28/12/2025)
 
 ## Tarefas
 - [ ] React: Projeto com hooks

@@ -1,4 +1,4 @@
-# Semana 42 (19/02/2026 - 25/02/2026)
+# Semana 42 (23/02/2026 - 01/03/2026)
 
 ## Tarefas
 - [ ] TypeScript: Projeto simples (ex.: API)

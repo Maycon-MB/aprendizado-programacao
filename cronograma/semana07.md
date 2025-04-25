@@ -1,4 +1,4 @@
-# Semana 07 (19/06/2025 - 25/06/2025)
+# Semana 07 (23/06/2025 - 29/06/2025)
 
 ## Tarefas
 - [ ] CS50x: Semana 7 (algoritmos, ordenação)

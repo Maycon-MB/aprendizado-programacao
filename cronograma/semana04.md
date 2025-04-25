@@ -1,4 +1,4 @@
-# Semana 04 (29/05/2025 - 04/06/2025)
+# Semana 04 (02/06/2025 - 08/06/2025)
 
 ## Tarefas
 - [ ] CS50x: Semana 4 (Python básico)

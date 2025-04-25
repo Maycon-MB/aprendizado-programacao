@@ -1,4 +1,4 @@
-# Semana 24 (16/10/2025 - 22/10/2025)
+# Semana 24 (20/10/2025 - 26/10/2025)
 
 ## Tarefas
 - [ ] Web Bootcamp: Node.js básico

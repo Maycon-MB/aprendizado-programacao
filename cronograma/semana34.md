@@ -1,4 +1,4 @@
-# Semana 34 (25/12/2025 - 31/12/2025)
+# Semana 34 (29/12/2025 - 04/01/2026)
 
 ## Tarefas
 - [ ] React: Roteamento (React Router)

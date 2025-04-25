@@ -1,4 +1,4 @@
-# Semana 14 (07/08/2025 - 13/08/2025)
+# Semana 14 (11/08/2025 - 17/08/2025)
 
 ## Tarefas
 - [ ] 100 Days of Code: Dias 21-25 (automação)

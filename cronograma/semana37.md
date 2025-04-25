@@ -1,4 +1,4 @@
-# Semana 37 (15/01/2026 - 21/01/2026)
+# Semana 37 (19/01/2026 - 25/01/2026)
 
 ## Tarefas
 - [ ] Clean Code: Capítulo 9 (formatação)

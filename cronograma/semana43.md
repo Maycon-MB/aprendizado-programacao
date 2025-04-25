@@ -1,4 +1,4 @@
-# Semana 43 (26/02/2026 - 04/03/2026)
+# Semana 43 (02/03/2026 - 08/03/2026)
 
 ## Tarefas
 - [ ] TypeScript: Revisar tipagem

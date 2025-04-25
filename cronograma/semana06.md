@@ -1,4 +1,4 @@
-# Semana 06 (12/06/2025 - 18/06/2025)
+# Semana 06 (16/06/2025 - 22/06/2025)
 
 ## Tarefas
 - [ ] CS50x: Semana 6 (Python intermediário)

@@ -1,4 +1,4 @@
-# Semana 30 (27/11/2025 - 03/12/2025)
+# Semana 30 (01/12/2025 - 07/12/2025)
 
 ## Tarefas
 - [ ] Web Bootcamp: Projeto com MongoDB

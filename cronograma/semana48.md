@@ -1,4 +1,4 @@
-# Semana 48 (02/04/2026 - 08/04/2026)
+# Semana 48 (06/04/2026 - 12/04/2026)
 
 ## Tarefas
 - [ ] Projeto: Continuar app avançada

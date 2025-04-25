@@ -1,4 +1,4 @@
-# Semana 11 (17/07/2025 - 23/07/2025)
+# Semana 11 (21/07/2025 - 27/07/2025)
 
 ## Tarefas
 - [ ] CS50x: Projeto final (Flask + PostgreSQL)

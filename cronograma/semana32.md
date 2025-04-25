@@ -1,4 +1,4 @@
-# Semana 32 (11/12/2025 - 17/12/2025)
+# Semana 32 (15/12/2025 - 21/12/2025)
 
 ## Tarefas
 - [ ] React: Hooks (useState, useEffect)

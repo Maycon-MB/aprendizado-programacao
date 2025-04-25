@@ -1,4 +1,4 @@
-# Semana 39 (29/01/2026 - 04/02/2026)
+# Semana 39 (02/02/2026 - 08/02/2026)
 
 ## Tarefas
 - [ ] React: Refatore app fullstack com Clean Code

@@ -1,4 +1,4 @@
-# Semana 05 (05/06/2025 - 11/06/2025)
+# Semana 05 (09/06/2025 - 15/06/2025)
 
 ## Tarefas
 - [ ] CS50x: Semana 5 (estruturas de dados)

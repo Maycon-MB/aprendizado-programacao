@@ -1,4 +1,4 @@
-# Semana 26 (30/10/2025 - 05/11/2025)
+# Semana 26 (03/11/2025 - 09/11/2025)
 
 ## Tarefas
 - [ ] Web Bootcamp: Node.js + PostgreSQL

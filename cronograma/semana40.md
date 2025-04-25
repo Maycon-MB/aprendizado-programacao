@@ -1,4 +1,4 @@
-# Semana 40 (05/02/2026 - 11/02/2026)
+# Semana 40 (09/02/2026 - 15/02/2026)
 
 ## Tarefas
 - [ ] Nova linguagem: TypeScript básico (ou Go)

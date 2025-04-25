@@ -1,4 +1,4 @@
-# Semana 41 (12/02/2026 - 18/02/2026)
+# Semana 41 (16/02/2026 - 22/02/2026)
 
 ## Tarefas
 - [ ] TypeScript: Tipagem, interfaces

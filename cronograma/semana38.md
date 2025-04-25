@@ -1,4 +1,4 @@
-# Semana 38 (22/01/2026 - 28/01/2026)
+# Semana 38 (26/01/2026 - 01/02/2026)
 
 ## Tarefas
 - [ ] Clean Code: Capítulo 10 (classes)

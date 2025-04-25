@@ -1,4 +1,4 @@
-# Semana 36 (08/01/2026 - 14/01/2026)
+# Semana 36 (12/01/2026 - 18/01/2026)
 
 ## Tarefas
 - [ ] React: Revisar roteamento, APIs
