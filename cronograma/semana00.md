@@ -2,8 +2,8 @@
 
 ## Tarefas
 - [x] CS50x: Semana 0 (Scratch, fundamentos)
-- [ ] Grokking Algorithms: Capítulo 1 (busca binária)
+- [x] Grokking Algorithms: Capítulo 1 (busca binária)
 - [ ] SQL: Praticar SELECT, WHERE no SQLZoo
 
 ## Notas
-(Anotar após a semana)
+Scratch foi bem intuitivo, nada de muito novo. Completei exercícios 1-3 de SELECT basics no SQLZoo;
