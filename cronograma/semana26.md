@@ -2,8 +2,8 @@
 
 ## Tarefas
 - [ ] Web Bootcamp: Node.js + PostgreSQL
-- [ ] LeetCode: 2 problemas médios
 - [ ] Projeto: Concluir app Express, documentar em `projetos`
+- [ ] LeetCode: 2 problemas médios
 
 ## Notas
 (Anotar após a semana, ex.: 'Scratch foi intuitivo, mas busca binária precisa de prática.')

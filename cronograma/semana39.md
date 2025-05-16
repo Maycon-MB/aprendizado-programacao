@@ -1,7 +1,7 @@
 # Semana 39 (02/02/2026 - 08/02/2026)
 
 ## Tarefas
-- [ ] React: Refatore app fullstack com Clean Code
+- [ ] React: Refatorar app fullstack com boas práticas
 - [ ] LeetCode: 1 problema difícil
 - [ ] Open Source: Revisar contribuições
 

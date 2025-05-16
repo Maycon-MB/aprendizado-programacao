@@ -3,7 +3,7 @@
 ## Tarefas
 - [ ] 100 Days of Code: Dias 66-70 (projeto final)
 - [ ] Web Bootcamp: Revisar JavaScript
-- [ ] Clean Code: Refatore projeto Flask
+- [ ] Projeto: Refatorar API Flask com boas práticas
 
 ## Notas
 (Anotar após a semana, ex.: 'Scratch foi intuitivo, mas busca binária precisa de prática.')

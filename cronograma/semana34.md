@@ -3,7 +3,7 @@
 ## Tarefas
 - [ ] React: Roteamento (React Router)
 - [ ] Open Source: Concluir 1 pull request
-- [ ] Clean Code: Capítulo 8 (concorrência)
+- [ ] LeetCode: 1 problema difícil
 
 ## Notas
 (Anotar após a semana, ex.: 'Scratch foi intuitivo, mas busca binária precisa de prática.')

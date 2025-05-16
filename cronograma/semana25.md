@@ -2,8 +2,8 @@
 
 ## Tarefas
 - [ ] Web Bootcamp: Express básico
-- [ ] Clean Code: Capítulo 5 (formatação avançada)
 - [ ] Projeto: Continuar app Express
+- [ ] HackerRank: 2 problemas intermediários
 
 ## Notas
 (Anotar após a semana, ex.: 'Scratch foi intuitivo, mas busca binária precisa de prática.')

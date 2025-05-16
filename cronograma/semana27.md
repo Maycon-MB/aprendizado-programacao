@@ -2,7 +2,7 @@
 
 ## Tarefas
 - [ ] Web Bootcamp: Revisar Node.js/Express
-- [ ] Clean Code: Capítulo 6 (objetos)
+- [ ] Projeto: Adicionar funcionalidades ao app Express (ex.: autenticação)
 - [ ] LeetCode: 2 problemas médios
 
 ## Notas

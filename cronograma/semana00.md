@@ -6,4 +6,4 @@
 - [x] SQL: Praticar SELECT, WHERE no SQLZoo
 
 ## Notas
-Scratch foi bem intuitivo, nada de muito novo. Completei exercícios 1-3 de SELECT basics no SQLZoo;
+Scratch foi intuitivo, SQLZoo foi muito fácil, mas busca binária precisa de prática.
