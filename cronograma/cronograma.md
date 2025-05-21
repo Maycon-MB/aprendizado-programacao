@@ -9,13 +9,13 @@ Organizei meu aprendizado em módulos sequenciais, sem datas fixas, para manter 
 **Tarefas**:
 - [x] CS50x: Scratch (fundamentos, lógica de programação)
 - [ ] Grokking Algorithms: Capítulo 1 (busca binária) + implementar manualmente
-- [ ] SQLZoo: SELECT basics, WHERE (exercícios 1-10)
+- [ ] SQLZoo: `SELECT basics` (3 exercícios) e `SELECT from world` (13 exercícios)
 - [ ] CS50x: C (arrays, strings, memória)
 - [ ] Grokking Algorithms: Capítulo 2 (recursão) + implementar recursão simples
-- [ ] SQLZoo: JOIN (exercícios 1-10)
+- [ ] SQLZoo: `JOIN` (todos os 13 exercícios)
 - [ ] LeetCode: 3 problemas fáceis (arrays, strings)
 - [ ] CS50x: Python básico (variáveis, funções, OOP)
-- [ ] SQLZoo: GROUP BY (exercícios 1-10)
+- [ ] SQLZoo: `SUM and COUNT` (todos os 8 exercícios)
 
 ## Módulo 2: Programação Intermediária e SQL Avançado
 
@@ -24,12 +24,12 @@ Organizei meu aprendizado em módulos sequenciais, sem datas fixas, para manter 
 **Tarefas**:
 - [ ] CS50x: Python intermediário (listas, arquivos)
 - [ ] Grokking Algorithms: Capítulo 3 (ordenação)
-- [ ] SQLZoo: Subqueries (exercícios 1-10)
+- [ ] SQLZoo: `SELECT in SELECT` (todos os 10 exercícios)
 - [ ] CS50x: Estruturas de dados (listas ligadas, árvores)
 - [ ] Grokking Algorithms: Capítulo 4 (grafos)
 - [ ] LeetCode: 4 problemas intermediários (listas, grafos)
 - [ ] CS50x: SQL (consultas avançadas)
-- [ ] SQLZoo: Revisar SELECT, JOIN, GROUP BY (2-3 exercícios cada)
+- [ ] SQLZoo: Revisar `SELECT from world` (2-3 exercícios), `JOIN` (2-3 exercícios), `SUM and COUNT` (2-3 exercícios)
 - [ ] Projeto: Script Python para automação (ex.: tarefa do trabalho), documentar em `projetos/script-automatizacao`
 
 ## Módulo 3: Introdução ao Desenvolvimento Web
